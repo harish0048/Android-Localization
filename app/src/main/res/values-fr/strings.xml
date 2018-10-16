@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ma localisation</string>
+    <string name="app_title">enregistrement</string>
+    <string name="form_text">Remplissez ce formulaire pour enregistrer un utilisateur</string>
+    <string name="form_name">Nom complet</string>
+    <string name="form_email">Adresse électronique</string>
+    <string name="form_phone">Numéro de téléphone</string>
+    <string name="form_pwd">Mot de passe</string>
+    <string name="form_check">J\'ai lu et accepté le terme</string>
+    <string name="btn_go">Soumettre</string>
+    <string name="btn_Lang">Set Languange</string>
+
+</resources>

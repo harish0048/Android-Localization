@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lokalisasi saya</string>
+    <string name="app_title">Registrasi</string>
+    <string name="form_text">Isi untuk registrasi pengguna</string>
+    <string name="form_name">Nama Lengkap</string>
+    <string name="form_email">Alamat Email</string>
+    <string name="form_phone">Nomor Telepon</string>
+    <string name="form_pwd">Kata Sandi</string>
+    <string name="form_check">Saya telah membaca dan menyetujui persyaratan</string>
+    <string name="btn_go">Masukkan</string>
+    <string name="btn_Kirim">Set Language</string>
+
+</resources>
